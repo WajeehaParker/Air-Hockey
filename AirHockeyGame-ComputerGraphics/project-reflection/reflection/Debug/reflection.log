@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\documents sem6\computer graphics\project\airhockeygame-computergraphics\project-reflection\reflection\helpingclasses.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\documents sem6\computer graphics\project\airhockeygame-computergraphics\project-reflection\reflection\draw.h(149): warning C4018: '<': signed/unsigned mismatch
+e:\documents sem6\computer graphics\project\airhockeygame-computergraphics\project-reflection\reflection\source.cpp(128): warning C4018: '<': signed/unsigned mismatch
+  reflection.vcxproj -> E:\Documents sem6\Computer Graphics\Project\AirHockeyGame-ComputerGraphics\project-reflection\Debug\reflection.exe
